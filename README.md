@@ -1,4 +1,4 @@
-# GenerateJsonArray - a JSON Template Processor
+# GenerateJsonArray - a super simple JSON Template Processor
 
 This script dynamically processes a JSON template file by replacing specific placeholders with dynamically generated values and writes the results to an output file. It supports generating multiple objects based on the template.
 
