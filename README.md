@@ -18,7 +18,7 @@ This script dynamically processes a JSON template file by replacing specific pla
 1. Place your JSON template in a file.
 2. Run the script using:
    ```bash
-   node makeJsonArray.js <number_of_items> <input_file>
+   node generateJsonArray.js <number_of_items> <input_file>
    ```
    - `<number_of_items>`: The number of objects to generate (default: 5).
    - `<input_file>`: The name of the input file (default: `input.json`).
