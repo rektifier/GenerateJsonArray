@@ -33,7 +33,7 @@ This script dynamically processes a JSON template file by replacing specific pla
   - Strings and integers can be used as values, and quoted strings are also supported.
 
 ## Template Example
-```json
+```
 {
     "alternate_strings": "$alternate['Foo, 01','Foo, 2']",
     "alternate_names": "$alternate[Bar1,Bar2]",
